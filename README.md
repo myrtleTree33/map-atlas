@@ -1,3 +1,3 @@
-# Personal Site
+## Map Atlas
 
-Personal site, written with React, React-router, and antd.
+React site.
